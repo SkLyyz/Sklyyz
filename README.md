@@ -49,4 +49,4 @@ I'm interested in flexible work schedules in the future<br>
 Thanks for visiting my profile 👾<br>
 
 "One bug at a time." <br>
-[![Sofia Layla Stats](https://github-readme-stats.vercel.app/api?username=sklyyz)](https://github.com/anuraghazra/github-readme-stats)
+[![Sofia Layla Stats](https://github-readme-stats.vercel.app/api?username=sklyyz)](https://github.com/sklyyz/github-readme-stats)
